@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_screen_color">#192e36</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="blue">#05a3ce</color>
+    <color name="shaddow_black">#c000</color>
+    <color name="rmadi">#dcd9d9</color>
+    <color name="orange">#f05b2e</color>
+    <color name="orange_alpha">#A6f05b2e</color>
+    <color name="white_alpha">#F2ffffff</color>
+    <color name="tabMedium">#2B2B2B</color>
+    <color name="tabDark">#000000</color>
+    <color name="tabTransparent">#10ffffff</color>
+    <color name="gray">#e5e5e5</color>
+    <color name="green">#7ac943</color>
+    <color name="btn_more">#008299</color>
+     <color name="read">#ccc</color>
+    <color name="unread">#A6f05b2e</color>
+</resources>
+
+<!--Hex Opacity Values
+100% — FF
+95% — F2
+90% — E6
+85% — D9
+80% — CC
+75% — BF
+70% — B3
+65% — A6
+60% — 99
+55% — 8C
+50% — 80
+45% — 73
+40% — 66
+35% — 59
+30% — 4D
+25% — 40
+20% — 33
+15% — 26
+10% — 1A
+5% — 0D
+0% — 00-->

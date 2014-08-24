@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mandroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="User_Name">User Name</string>
+    <string name="Ba_ssword">Bassword</string>
+    <string name="lo_gin">login</string>
+    <string name="View_Complaints">View Complaints</string>
+    <string name="Ca_ll">Call</string>
+    <string name="ViewComplaints">View Complaints</string>
+    
+</resources>

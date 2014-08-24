@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/splash_screen_color">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <Button
+                    android:id="@+id/btnView"
+                    android:layout_width="150dp"
+                    android:layout_height="130dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginRight="2dp"
+                    android:background="#008d44"
+                    android:shadowColor="@color/black"
+                    android:shadowDx="2"
+                    android:shadowDy="4"
+                    android:shadowRadius="3"
+                    android:text="View Complaints"
+                    android:textColor="@color/white" />
+
+                <Button
+                    android:id="@+id/d"
+                    android:layout_width="150dp"
+                    android:layout_height="130dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="2dp"
+                    android:background="#008299"
+                    android:shadowColor="@color/black"
+                    android:shadowDx="2"
+                    android:shadowDy="4"
+                    android:shadowRadius="3"
+                    android:text="D"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <Button
+                    android:id="@+id/F"
+                    android:layout_width="150dp"
+                    android:layout_height="130dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginRight="2dp"
+                    android:background="#bc34bb"
+                    android:text="F"
+                    android:shadowColor="@color/black"
+                    android:shadowDx="2"
+                    android:shadowDy="4"
+                    android:shadowRadius="3"
+                    android:textColor="@color/white" />
+
+                <Button
+                    android:id="@+id/a"
+                     android:layout_width="150dp"
+                    android:layout_height="130dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="2dp"
+                    android:background="#df4c40"
+                    android:shadowColor="@color/black"
+                    android:shadowDx="2"
+                    android:shadowDy="4"
+                    android:shadowRadius="3"
+                    android:text="A"
+                    android:textColor="@color/white" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
